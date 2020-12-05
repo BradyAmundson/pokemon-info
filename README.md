@@ -1,2 +1,2 @@
 # pokemon-info
-pokemon api project cmsi 185
+Pokemon API Project CMSI 185
